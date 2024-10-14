@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="Fútbol" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/dd83ff37c8bd3dc3e069832dd911058b3cc7ef64/logos/m_liga.png", Movistar LaLiga (Multiaudio)
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="Movistar LaLiga (Multiaudio)" group-title="Fútbol", Movistar LaLiga (Multiaudio)
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="Movistar LaLiga (720)" group-title="Fútbol", Movistar LaLiga (720)
@@ -16,7 +16,7 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="Eurosport 2 (1080)" group-title="Deportes", Eurosport 2 (1080)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="Eleven Sports 1 (1080)" group-title="Fútbol", Eleven Sports 1 (1080)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="Eleven Sports 2 (1080)" group-title="Fútbol", Eleven Sports 2 (1080)
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="Eleven Sports 3 (1080)" group-title="Fútbol", Eleven Sports 3 (1080)
