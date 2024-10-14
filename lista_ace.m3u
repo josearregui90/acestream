@@ -55,27 +55,3 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/e14a88e6021308e650eba39fda9a37d2efdf4ed7/logos/dazn_2.svg" group-title="Deportes", Dazn 2 (720)
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/7d44176024234c444c7489daed708e78cb62e3ff/logos/dazn_f1.svg" group-title="Deportes", Dazn F1 (UHD)
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Ziggo Sport (1080)
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 tvg-id="DE | Servus TV Motorsport" tvg-logo="" group-title="Deportes", Servus TV (1080)
-acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 tvg-id="DE | Sky Sport F1" tvg-logo="" group-title="Deportes", Sky Sport F1 (DEU) (1080)
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-id="UK | Sky Sport F1" tvg-logo="" group-title="Deportes", Sky Sport F1 (UK) (1080)
-acestream://5daf95f64a63e91b34bcff9adb5fc568fc3b2e55
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", F1 TV (UK) (1080)
-acestream://65f5e66b421248ab85b23145e5981a572b8e56f6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", F1 TV (ESP) (1080)
-acestream://1f2c6cd687f37a66a8bd2b78c0f439d6b06c0cac
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Ziggo Sport (1080)
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Servus TV (1080)
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="DE | Sky Sport F1" tvg-logo="" group-title="Deportes", Sky Sport F1 (DEU) (1080)
-acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Amazon Prime Video 1 (BE) (720)
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", DAZN 6 (PT) (1080)
-acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
