@@ -45,7 +45,7 @@ plugin://script.module.horus?action=play&id=cc26ac2566538d6981b93cf92aae70c49dab
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:27 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/refs/heads/main/logos/m_deportes.png" group-title="Deportes", Movistar Deportes 1 (1080)
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:50 tvg-id="dazn_1,pt" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/refs/heads/main/logos/dazn_1.png" group-title="Fútbol", DAZN 1 (PT) (1080)
+#EXTINF:50 tvg-id="dazn_1.pt" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/refs/heads/main/logos/dazn_1.png" group-title="Fútbol", DAZN 1 (PT) (1080)
 plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:51 tvg-id="dazn_2.pt" tvg-logo="https://raw.githubusercontent.com/josearregui90/acestream/refs/heads/main/logos/dazn_2.png" group-title="Fútbol", DAZN 2 (PT) (1080)
 plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
