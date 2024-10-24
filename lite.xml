@@ -1,0 +1,2529 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DAZN 1 [PT]">
+    <display-name lang="pt">DAZN 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN 2 [PT]">
+    <display-name lang="pt">DAZN 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN 3 [PT]">
+    <display-name lang="pt">DAZN 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN 4 [PT]">
+    <display-name lang="pt">DAZN 4</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN 5 [PT]">
+    <display-name lang="pt">DAZN 5</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN 6 [PT]">
+    <display-name lang="pt">DAZN 6</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DAZN LaLiga HD">
+    <display-name lang="es">DAZN LALIGA [55]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/DAZNLI.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="DAZN LaLiga 2 HD">
+    <display-name lang="es">DAZN LALIGA 2 [58]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/DAZNL2.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ LaLiga TV HD">
+    <display-name lang="es">M+ LALIGA TV [54]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ LaLiga TV 2 HD">
+    <display-name lang="es">M+ LALIGA TV 2 [57]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ Liga de Campeones 3 HD">
+    <display-name lang="es">M+ Liga de Campeones  3 [62]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ Liga de Campeones 4 HD">
+    <display-name lang="es">M+ Liga de Campeones  4 [180]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP3.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ Liga de Campeones HD">
+    <display-name lang="es">M+ Liga de Campeones [60]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M+ Liga de Campeones 2 HD">
+    <display-name lang="es">M+ Liga de Campeones 2 [61]</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <programme start="20241024003000 +0000" stop="20241024023000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Leipzig x Liverpool: Champions League</title>
+    <sub-title lang="pt">Leipzig x Liverpool</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Leipzig x Liverpool.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b8a5b84a642b49e9a4b80f6b79960fb5/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024023000 +0000" stop="20241024033000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Premier League</title>
+    <sub-title lang="pt">RD 08</sub-title>
+    <desc lang="pt">Vê todos os golos e ouve os protagonistas de mais uma jornada da Premier League.(n)</desc>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8dc797873cf4494c8a6c83dd8c1a7af4/version/0" />
+    <country lang="pt">GB</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024033000 +0000" stop="20241024040000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Premier League Netbusters</title>
+    <desc lang="pt">Os números e os melhores momentos de mais um fim de semana de emoção da Premier League.(n)</desc>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ffc82ce954c84696a8444eff31a78dec/version/0" />
+    <country lang="pt">GB</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024060000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Galatasaray x Elfsborg: Liga Europa</title>
+    <sub-title lang="pt">Galatasaray x Elfsborg</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Galatasaray x Elfsborg.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c6b275e2d6c1458aa6d83b194a0a1082/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024060000 +0000" stop="20241024080000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Monaco x Est. Vermelha: Champions League</title>
+    <sub-title lang="pt">Monaco x Est. Vermelha</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Monaco x Estrela Vermelha.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/77f532e6aec743cf824c8211edbee737/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024080000 +0000" stop="20241024100000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Atl. Madrid x Lille: Champions League</title>
+    <sub-title lang="pt">Atl. Madrid x Lille</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Atlético Madrid x Lille.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/75341168a5d7480b9ea9b73f27b049e1/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024100000 +0000" stop="20241024120000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Brest x Leverkusen: Champions League</title>
+    <sub-title lang="pt">Brest x Leverkusen</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Stade Brest x Bayer Leverkusen.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2b1ffbfd132a454fbec87a6990ec205a/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 +0000" stop="20241024140000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Barcelona x Bayern: Champions League</title>
+    <sub-title lang="pt">Barcelona x Bayern</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Barcelona x Bayern.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/86ce23a78e7f4af99a99cb3b05454ec7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024140000 +0000" stop="20241024160000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">SC Braga x Bodø/Glimt: Liga Europa</title>
+    <sub-title lang="pt">SC Braga x Bodø/Glimt</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre SC Braga x Bodo/Glimt.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b01fa19ad05948e4b05e6e21cacb1481/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024160000 +0000" stop="20241024164500 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Europa Matchday</title>
+    <sub-title lang="pt">(Direto)</sub-title>
+    <desc lang="pt">Antevisão de todos os jogos da UEFA Europa League e UEFA Conference League.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Notícias</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9e2cac800a0a4bed9b14840a0dce9da7/version/0" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024183500 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Djurgarden x Vitória SC (Direto)</title>
+    <sub-title lang="pt">Djurgarden x Vitória SC (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre Djurgarden x Vitória SC.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45ea4c5d872f456895f6ccbc381542db/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024183500 +0000" stop="20241024190000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Europa Matchday</title>
+    <sub-title lang="pt">(Direto)</sub-title>
+    <desc lang="pt">Antevisão de todos os jogos da UEFA Europa League e UEFA Conference League.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Notícias</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9e2cac800a0a4bed9b14840a0dce9da7/version/0" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Fenerbahçe x Man United (Direto): Liga Europa</title>
+    <sub-title lang="pt">Fenerbahçe x Man United (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Fenerbahce x Manchester United.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/78fef50c3f82467e9639114ab247fb06/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241024214500 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Europa Matchday</title>
+    <sub-title lang="pt">(Direto)</sub-title>
+    <desc lang="pt">Todos os golos, resumos, análises e reações à noite de UEFA Europa League e UEFA Conference League.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Notícias</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/71e4248974dd4639a888a8698c051007/version/0" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024214500 +0000" stop="20241024220000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Europa League - FC Porto x Hoffenheim</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/93c3fcc1eae545ddb56e869966aa9583/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024220000 +0000" stop="20241025000000 +0000" channel="DAZN 1 [PT]">
+    <title lang="pt">Djurgarden x Vitória SC</title>
+    <sub-title lang="pt">Djurgarden x Vitória SC</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre Djurgarden x Vitória SC.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c80eaf8df4984df5a4cc7238061c775a/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024010000 +0000" stop="20241024011500 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Champions League - SL Benfica x Feyenoord</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e8d135bb637544bb8bfbf4a77244dbc6/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024011500 +0000" stop="20241024013000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Champions League - Sturm Graz x Sporting CP</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3ec8110622ea4067847d9664885fcd15/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024013000 +0000" stop="20241024014500 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Golos</title>
+    <sub-title lang="pt">UEFA Champions League</sub-title>
+    <desc lang="pt">Assiste a todos os golos desta jornada da UEFA Champions League 2024/2025.(n)</desc>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/777c6ec814634fa0b41e6e5f101013ce/version/0" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024014500 +0000" stop="20241024034500 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Barcelona x Bayern: Champions League</title>
+    <sub-title lang="pt">Barcelona x Bayern</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Barcelona x Bayern.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b931e9e441d04e4c96efa4fe1e42d854/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024034500 +0000" stop="20241024040000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Europa League - SC Braga x Bodø/Glimt</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ce15fb8df8f845679475517479c9c826/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024050000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Bundesliga</title>
+    <sub-title lang="pt">RD 07</sub-title>
+    <desc lang="pt">Os resumos e os melhores momentos da última jornada da Bundesliga.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/d671baf9f85e4899a22faa9554dc12a9/version/0" />
+    <country lang="pt">DE</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024050000 +0000" stop="20241024070000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Aston Villa x Bologna: Champions League</title>
+    <sub-title lang="pt">Aston Villa x Bologna</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Aston Villa x Bologna.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3872cb1605e8459ab19906679e5c8f89/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024070000 +0000" stop="20241024090000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Juventus x Stuttgart: Champions League</title>
+    <sub-title lang="pt">Juventus x Stuttgart</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Juventus x Stuttgart.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/d0e3249993ac428d88c0ea8b40e4f6c8/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024090000 +0000" stop="20241024110000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Young Boys x Inter: Champions League</title>
+    <sub-title lang="pt">Young Boys x Inter</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Young Boys x Inter.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f0f7df7f6a5c4b8d9868163dfa9adce6/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024110000 +0000" stop="20241024120000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Champions League</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a276e3c9a5a644b9a858dbbfcbca5b7c/version/0" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 +0000" stop="20241024140000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Salzburg x Dinamo Zagreb: Champions League</title>
+    <sub-title lang="pt">Salzburg x Dinamo Zagreb</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Salzburg x Dinamo Zagreb.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2178ab42d6204eaa95ca396661f918d5/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024140000 +0000" stop="20241024141500 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Golos</title>
+    <sub-title lang="pt">UEFA Champions League</sub-title>
+    <desc lang="pt">Assiste a todos os golos desta jornada da UEFA Champions League 2024/2025.(n)</desc>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/777c6ec814634fa0b41e6e5f101013ce/version/0" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024141500 +0000" stop="20241024143000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Golos</title>
+    <sub-title lang="pt">UEFA Champions League</sub-title>
+    <desc lang="pt">Assiste a todos os golos desta jornada da UEFA Champions League 2024/2025.(n)</desc>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3749d299e8bb4cd99aba6715558dd5ae/version/0" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024143000 +0000" stop="20241024163000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Leipzig x Liverpool: Champions League</title>
+    <sub-title lang="pt">Leipzig x Liverpool</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Leipzig x Liverpool.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/12e702b77ced4276b40664a4009a0071/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024163000 +0000" stop="20241024164500 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Champions League - SL Benfica x Feyenoord</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e8d135bb637544bb8bfbf4a77244dbc6/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024190000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Panathinaikos x Chelsea (Direto)</title>
+    <sub-title lang="pt">Panathinaikos x Chelsea (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre Panathinaikos x Chelsea.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/48b5d2de45b94a39a19331bb15eb4716/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Tottenham x AZ Alkmaar (Direto): Liga Europa</title>
+    <sub-title lang="pt">Tottenham x AZ Alkmaar (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Tottenham x AZ Alkmaar.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b3dd34f6e0804ad0992bd94a71cd3b02/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241024211000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Conference League - Djurgarden x Vitória SC</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/913931eed8ea4abc9f1e9fd92c349b90/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024211000 +0000" stop="20241024230000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">Roma x Dynamo Kyiv: Liga Europa</title>
+    <sub-title lang="pt">Roma x Dynamo Kyiv</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Roma x Dynamo Kiev.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/82bde04d881449639651e34313443b66/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024230000 +0000" stop="20241025010000 +0000" channel="DAZN 2 [PT]">
+    <title lang="pt">SL Benfica x Feyenoord: Champions League</title>
+    <sub-title lang="pt">SL Benfica x Feyenoord</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Benfica x Feyenoord.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6757f8a467044b06b83649dc193b9d96/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024000000 +0000" stop="20241024040000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 01:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e64a1572a0bf43b9b042168cd360d6be/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024090000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 05:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e64a1572a0bf43b9b042168cd360d6be/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024090000 +0000" stop="20241024110000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">OC Barcelos x FC Porto: Hóquei Patins</title>
+    <sub-title lang="pt">OC Barcelos x FC Porto</sub-title>
+    <desc lang="pt">Assiste ao Campeonato Nacional de Hóquei em Patins.(n)</desc>
+    <category lang="pt">Hóquei</category>
+    <category lang="pt">Desportos de equipa</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e88c3eac6cf44a92907c8b471bc09414/version/0" />
+    <country lang="pt">PT</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024110000 +0000" stop="20241024111500 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Liga ACB</title>
+    <sub-title lang="pt">Resumos da Jornada</sub-title>
+    <desc lang="pt">Os melhores jogos da Liga espanhola de basquetebol, uma das mais competitivas do mundo.(n)</desc>
+    <category lang="pt">Basquetebol</category>
+    <category lang="pt">Desportos de equipa</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e88f6775a2294050ab4012680ab39e1c/version/0" />
+    <country lang="pt">ES</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024111500 +0000" stop="20241024113000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Magazine Liga Betclic Basquetebol</title>
+    <desc lang="pt">Todas a sextas feiras o melhor do Basket Nacional está na DAZN com o magazine da Liga BetClic.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8bdb3f45db7a4bb4bd30b3164368c76b/version/0" />
+    <country lang="pt">PT</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024113000 +0000" stop="20241024133000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Atalanta x Celtic: Champions League</title>
+    <sub-title lang="pt">Atalanta x Celtic</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Atalanta x Celtic.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2f6e2a4afded4365b999f3c03a091a76/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024133000 +0000" stop="20241024134500 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Resumos DAZN</title>
+    <sub-title lang="pt">UEFA Champions League - Sturm Graz x Sporting CP</sub-title>
+    <desc lang="pt">Não percas os momentos mais importantes das competições com transmissão na DAZN.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Magazine de desporto</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b4ed713b413042fc87cf478366efa16a/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024134500 +0000" stop="20241024144500 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">LaLiga El Clásico</title>
+    <sub-title lang="pt">O Caminho</sub-title>
+    <desc lang="pt">O caminho de merengues e culés até ao derradeiro confronto.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b42176bf9516483fb5db2ecd37f927b2/version/0" />
+    <country lang="pt">ES</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024144500 +0000" stop="20241024164500 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Celta Vigo x Real Madrid: LaLiga EA Sports</title>
+    <sub-title lang="pt">Celta Vigo x Real Madrid</sub-title>
+    <desc lang="pt">Assiste ao jogo da laliga ea sports entre Celta Vigo x Real Madrid.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/957d15106868468ca2be94f850c41380/version/0" />
+    <country lang="pt">ES</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024190000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Roma x Dynamo Kyiv (Direto): Liga Europa</title>
+    <sub-title lang="pt">Roma x Dynamo Kyiv (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Roma x Dynamo Kiev.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f1813219acea4d048ba5f5122665071e/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Lyon x Besiktas (Direto): Liga Europa</title>
+    <sub-title lang="pt">Lyon x Besiktas (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Lyon x Besiktas.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f94dde65f1f94b51812a39bec5f3994f/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241024230000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Panathinaikos x Chelsea</title>
+    <sub-title lang="pt">Panathinaikos x Chelsea</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre Panathinaikos x Chelsea.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/590f7b9b902346fcbd81a80385465e2e/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024230000 +0000" stop="20241025010000 +0000" channel="DAZN 3 [PT]">
+    <title lang="pt">Sturm Graz x Sporting CP: Champions League</title>
+    <sub-title lang="pt">Sturm Graz x Sporting CP</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Sturm Graz x Sporting.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/da2a04e227294425aaaccb67353a6ccc/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024010000 +0000" stop="20241024040000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 02:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024080000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 05:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024080000 +0000" stop="20241024120000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 09:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 +0000" stop="20241024160000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 13:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024160000 +0000" stop="20241024164500 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 17:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024190000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">APOEL x Borac (Direto)</title>
+    <sub-title lang="pt">APOEL x Borac (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre APOEL x Borac.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/652ff592b6114877ba64c2b849c640bf/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Athletic x Slavia Praga (Direto): Liga Europa</title>
+    <sub-title lang="pt">Athletic x Slavia Praga (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Athletic x Slavia Praga.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a3b8ad309e354daa9f2a4d9c03cd7ba0/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241025010000 +0000" channel="DAZN 4 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 22:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/afcf756d17c04500bf21547f9d0b0d91/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024010000 +0000" stop="20241024040000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 02:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024080000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 05:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024080000 +0000" stop="20241024120000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 09:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 +0000" stop="20241024160000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 13:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024160000 +0000" stop="20241024164500 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 17:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024190000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Maccabi Tel Aviv x Real Sociedad (Direto): Liga Europa</title>
+    <sub-title lang="pt">Maccabi Tel Aviv x Real Sociedad (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Maccabi Tel Aviv x Real Sociedad.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b7152704a9194d0aad2f8032fe70f2c3/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Betis x Copenhaga (Direto)</title>
+    <sub-title lang="pt">Betis x Copenhaga (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Conference League entre Real Bétis x Copenhaga.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/21fee6a670d04f6690ec0240d520a417/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241025010000 +0000" channel="DAZN 5 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 22:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3d4baa9699694e18ab7222283831d114/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024010000 +0000" stop="20241024040000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 02:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024040000 +0000" stop="20241024080000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 05:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024080000 +0000" stop="20241024120000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 09:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 +0000" stop="20241024160000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 13:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024160000 +0000" stop="20241024164500 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 17:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024164500 +0000" stop="20241024190000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Qarabag x Ajax (Direto): Liga Europa</title>
+    <sub-title lang="pt">Qarabag x Ajax (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Qarabag x Ajax.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ffb2929374f748bca68cdbf2d71a237a/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024190000 +0000" stop="20241024210000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Malmö x Olympiacos (Direto): Liga Europa</title>
+    <sub-title lang="pt">Malmö x Olympiacos (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Europa League entre Malmo x Olympiacos.(n)</desc>
+    <date>2024</date>
+    <category lang="pt">Futebol</category>
+    <category lang="pt">Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/11b4686745d744df9b81fbcc0e03594f/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024210000 +0000" stop="20241025010000 +0000" channel="DAZN 6 [PT]">
+    <title lang="pt">Sem Emissão</title>
+    <sub-title lang="pt">qui 24-out, 22:00</sub-title>
+    <desc lang="pt">O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a ELEVEN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Ligue 1 e Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.(n)</desc>
+    <category lang="pt">Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/45fd80f1b6a24e36a3a26de21e5aa0e7/version/0" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="PT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20241024120000 -0300" stop="20241024140000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">LALIGA EA SPORTS: Celta - Real Madrid</title>
+    <desc lang="es">Con El Clásico en el horizonte, el Real Madrid no quiere perder ni un centímetro de distancia con el Barcelona. Los de Ancelotti acuden a Balaídos, donde les espera el Celta. El conjunto gallego encadena dos encuentros sin ganar ante su afición.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280285" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024140000 -0300" stop="20241024150000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">El camino a El Clásico</sub-title>
+    <desc lang="es">Toda la información relacionada con el partido de la 11ª jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111297H3514867" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024150000 -0300" stop="20241024170000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">LALIGA EA SPORTS: Girona - Athletic</title>
+    <desc lang="es">Entre Liga y Champions, el Girona encadena seis partidos sin victorias. En la novena jornada, los de Montilivi reciben al Athletic. El equipo bilbaíno ha cosechado dos victorias y una derrota esta temporada en sus desplazamientos ligueros.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280303" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024170000 -0300" stop="20241024173000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Equals</title>
+    <sub-title lang="es">Desde el Norte</sub-title>
+    <desc lang="es">Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4091902" />
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024173000 -0300" stop="20241024180000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Equals</title>
+    <sub-title lang="es">De todo a nada</sub-title>
+    <desc lang="es">Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4091902" />
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024180000 -0300" stop="20241024200000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">LALIGA EA SPORTS: Osasuna - Betis</title>
+    <desc lang="es">Duelo en El Sadar entre dos equipos que quieren colarse en puestos europeos. Osasuna marcha quinto con 15 puntos, dos menos que el Villarreal, cuarto, que ocupa plaza de Liga de Campeones. El Betis, mientras, llega escocido a Navarra tras su derrota en el derbi.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280313" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024200000 -0300" stop="20241024210000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Classic Cup Golf</title>
+    <desc lang="es">Con el Clásico como telón de fondo, diferentes personalidades vinculadas a Real Madrid y Barcelona disputan un torneo de golf para calentar motores de cara al gran partido.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4309928" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024210000 -0300" stop="20241024213000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Crónicas de LaLiga</title>
+    <sub-title lang="es">Jornada 10</sub-title>
+    <desc lang="es">En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111304H3515718" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024213000 -0300" stop="20241024220000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">LaLiga Best 11</title>
+    <sub-title lang="es">Albelda</sub-title>
+    <desc lang="es">Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1843647H3131737" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T23/24</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024220000 -0300" stop="20241025000000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">LALIGA EA SPORTS: Barcelona - Real Madrid</title>
+    <desc lang="es">¡Llega ElClásico! Por primera vez en la historia, el FC Barcelona se enfrenta al Real Madrid en el Estadi Olímpic Lluís Companys. Los azulgranas y los merengues luchan por hacerse con el liderato de LALIGA EA SPORTS.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4136695" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241025000000 -0300" stop="20241025003000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Erasmus FC</title>
+    <desc lang="es">Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4300312" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025003000 -0300" stop="20241025010000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">Equals: Amigos y familia</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20241025010000 -0300" stop="20241025060000 -0300" channel="DAZN LaLiga HD">
+    <title lang="es">DAZN LALIGA</title>
+  </programme>
+  <programme start="20241024070000 -0300" stop="20241024110000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241024110000 -0300" stop="20241024150000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241024150000 -0300" stop="20241024190000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241024190000 -0300" stop="20241024230000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241024230000 -0300" stop="20241025030000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241025030000 -0300" stop="20241025070000 -0300" channel="DAZN LaLiga 2 HD">
+    <title lang="es">DAZN LALIGA 2</title>
+  </programme>
+  <programme start="20241024063500 -0300" stop="20241024070500 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Power</title>
+    <desc lang="es">Programa que rinde homenaje a todos aquellos que inspiran al mundo a través de los valores del fútbol. En cada episodio descubrimos la pasión que los famosos sienten por su club y vivimos un día de partido con los aficionados más entregados del mundo.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2097960H3501817" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024070500 -0300" stop="20241024073300 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Best 11</title>
+    <desc lang="es">Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2106378H3507844" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024073300 -0300" stop="20241024080000 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Talking Football</title>
+    <sub-title lang="es">Leganés</sub-title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. El campeonato español cuenta con una nómina de estrellas que son referencia de este deporte. Es por eso, sin duda, que es uno de los más seguidos de todo el planeta.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2086315H3491948" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024080000 -0300" stop="20241024083000 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">El análisis de El Clásico</sub-title>
+    <desc lang="es">Toda la información relacionada con el partido de la 11ª jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111303H3509117" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024083000 -0300" stop="20241024083400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Oviedo - Mirandés</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286538" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024083400 -0300" stop="20241024083900 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Castellón - Granada</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286433" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024083900 -0300" stop="20241024093400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">El camino a El Clásico</sub-title>
+    <desc lang="es">Toda la información relacionada con el partido de la 11ª jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111297H3514867" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024093400 -0300" stop="20241024100400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Crónicas de LaLiga</title>
+    <sub-title lang="es">Jornada 10</sub-title>
+    <desc lang="es">En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111304H3515718" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024100400 -0300" stop="20241024103400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Best 11</title>
+    <desc lang="es">Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2106378H3507844" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024103400 -0300" stop="20241024103800 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eldense - Zaragoza</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286485" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024103800 -0300" stop="20241024104200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eibar - Cádiz</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286465" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024104200 -0300" stop="20241024104700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Cartagena - Elche</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286488" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024104700 -0300" stop="20241024105700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Racing - Córdoba</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286530" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024105700 -0300" stop="20241024112700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Talking Football</title>
+    <sub-title lang="es">Leganés</sub-title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. El campeonato español cuenta con una nómina de estrellas que son referencia de este deporte. Es por eso, sin duda, que es uno de los más seguidos de todo el planeta.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2086315H3491948" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024112700 -0300" stop="20241024122200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">La película del Clásico</sub-title>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2109297H3515745" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024122200 -0300" stop="20241024142200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LALIGA EA SPORTS: At. Madrid - Leganés</title>
+    <desc lang="es">El Riyadh Air Metropolitano acoge un nuevo derbi de la capital madrileña entre Atlético de Madrid y CD Leganés. Los rojiblancos se mantienen invictos en LALIGA, pero necesitan volver a sumar de a tres tras sus dos últimos empates ante Real Madrid y Real Sociedad. El cuadro de Borja Jiménez, por su parte, llega necesitado a la cita tras siete jornadas sin conocer la victoria y situado al borde de la zona de descenso.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280267" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024142200 -0300" stop="20241024142600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Oviedo - Mirandés</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286538" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024142600 -0300" stop="20241024143100 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Castellón - Granada</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286433" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024143100 -0300" stop="20241024143500 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eldense - Zaragoza</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286485" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024143500 -0300" stop="20241024143900 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eibar - Cádiz</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286465" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024143900 -0300" stop="20241024144400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Cartagena - Elche</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286488" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024144400 -0300" stop="20241024145200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Racing - Córdoba</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286530" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024145200 -0300" stop="20241024163800 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LALIGA EA SPORTS: Girona - Real Sociedad</title>
+    <desc lang="es">Decimoquinta en la tabla y con solo dos victorias en nueve encuentros, la Real Sociedad de Imanol Alguacil visita Montilivi con el objetivo de comenzar a revertir su situación. Enfrente estará un Girona FC que busca mantener su dinámica ascendente y puntuar por tercera jornada consecutiva. El conjunto catalán no ha podido derrotar nunca a la Real en sus ocho enfrentamientos previos en la máxima categoría.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280307" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024163800 -0300" stop="20241024173200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Programa LaLiga EA Sports</title>
+    <sub-title lang="es">Jornada 10</sub-title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2107179H3507852" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024173200 -0300" stop="20241024183100 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Programa LaLiga HyperMotion</title>
+    <sub-title lang="es">Jornada 10</sub-title>
+    <desc lang="es">Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2107558H3489825" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024183100 -0300" stop="20241024201800 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LALIGA EA SPORTS: Mallorca - Rayo</title>
+    <desc lang="es">Séptimo y octavo en la clasificación respectivamente, RCD Mallorca y Rayo Vallecano se miden en Son Moix buscando reafirmar su buen arranque de campeonato. El conjunto balear se ha impuesto en 4 de los 5 últimos duelos ligueros frente a los franjirrojos, pero este Rayo de Íñigo Pérez llega en forma tras cinco jornadas seguidas sin perder. Cita muy especial para Abdón Prats, que de jugar alcanzará los 250 partidos como mallorquinista.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280319" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024201800 -0300" stop="20241024204800 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Crónicas de LaLiga</title>
+    <sub-title lang="es">Jornada 10</sub-title>
+    <desc lang="es">En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111304H3515718" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024204800 -0300" stop="20241024211700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga World</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2112854H3514865" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.11</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024211700 -0300" stop="20241024214700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Show</title>
+    <sub-title lang="es">Jornada 11</sub-title>
+    <desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111557H3515820" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024214700 -0300" stop="20241024221600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Talking Football</title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. El campeonato español cuenta con una nómina de estrellas que son referencia de este deporte. Es por eso, sin duda, que es uno de los más seguidos de todo el planeta.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2112654H3515822" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024221600 -0300" stop="20241024222000 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Oviedo - Mirandés</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286538" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024222000 -0300" stop="20241024222400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Castellón - Granada</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286433" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024222400 -0300" stop="20241024222900 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eldense - Zaragoza</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286485" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024222900 -0300" stop="20241024223300 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eibar - Cádiz</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286465" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024223300 -0300" stop="20241024223700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Cartagena - Elche</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286488" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024223700 -0300" stop="20241024224400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Racing - Córdoba</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286530" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024224400 -0300" stop="20241025004500 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LALIGA EA SPORTS: At. Madrid - Leganés</title>
+    <desc lang="es">El Riyadh Air Metropolitano acoge un nuevo derbi de la capital madrileña entre Atlético de Madrid y CD Leganés. Los rojiblancos se mantienen invictos en LALIGA, pero necesitan volver a sumar de a tres tras sus dos últimos empates ante Real Madrid y Real Sociedad. El cuadro de Borja Jiménez, por su parte, llega necesitado a la cita tras siete jornadas sin conocer la victoria y situado al borde de la zona de descenso.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280267" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241025004500 -0300" stop="20241025013700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">La película del Clásico</sub-title>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2109297H3515745" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025013700 -0300" stop="20241025020600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">El análisis de El Clásico</sub-title>
+    <desc lang="es">Toda la información relacionada con el partido de la 11ª jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111303H3509117" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025020600 -0300" stop="20241025030100 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Especial El Clásico</title>
+    <sub-title lang="es">El camino a El Clásico</sub-title>
+    <desc lang="es">Toda la información relacionada con el partido de la 11ª jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111297H3514867" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025030100 -0300" stop="20241025033200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Show</title>
+    <sub-title lang="es">Jornada 11</sub-title>
+    <desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111557H3515820" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025033200 -0300" stop="20241025040300 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LaLiga Talking Football</title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. El campeonato español cuenta con una nómina de estrellas que son referencia de este deporte. Es por eso, sin duda, que es uno de los más seguidos de todo el planeta.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2112654H3515822" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25 Ep.2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025040300 -0300" stop="20241025040700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Oviedo - Mirandés</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286538" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025040700 -0300" stop="20241025041100 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Castellón - Granada</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286433" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025041100 -0300" stop="20241025041600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eldense - Zaragoza</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286485" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025041600 -0300" stop="20241025042000 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Eibar - Cádiz</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286465" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025042000 -0300" stop="20241025042400 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Cartagena - Elche</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286488" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025042400 -0300" stop="20241025042900 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Racing - Córdoba</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286530" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025042900 -0300" stop="20241025043300 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Almería - Albacete</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286411" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025043300 -0300" stop="20241025043700 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Levante - Deportivo</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286508" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025043700 -0300" stop="20241025044200 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Burgos - Racing Ferrol</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286419" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025044200 -0300" stop="20241025044600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Sporting - Huesca</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286546" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025044600 -0300" stop="20241025045100 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Tenerife - Málaga</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286449" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025045100 -0300" stop="20241025063600 -0300" channel="M+ LaLiga TV HD">
+    <title lang="es">LALIGA EA SPORTS: Girona - Real Sociedad</title>
+    <desc lang="es">Decimoquinta en la tabla y con solo dos victorias en nueve encuentros, la Real Sociedad de Imanol Alguacil visita Montilivi con el objetivo de comenzar a revertir su situación. Enfrente estará un Girona FC que busca mantener su dinámica ascendente y puntuar por tercera jornada consecutiva. El conjunto catalán no ha podido derrotar nunca a la Real en sus ocho enfrentamientos previos en la máxima categoría.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4280307" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024080000 -0300" stop="20241024110000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">M+ LALIGA TV 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1868972H3152673" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024110000 -0300" stop="20241024110500 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Cartagena - Elche</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286488" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024110500 -0300" stop="20241024110900 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Racing - Córdoba</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286530" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024230900 -0300" stop="20241024233000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">M+ LALIGA TV 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1868972H3152673" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024233000 -0300" stop="20241024233500 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Almería - Albacete</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286411" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024233500 -0300" stop="20241024234000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Levante - Deportivo</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286508" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024234000 -0300" stop="20241025013000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">M+ LALIGA TV 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1868972H3152673" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241025013000 -0300" stop="20241025013500 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Burgos - Racing Ferrol</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286419" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025013500 -0300" stop="20241025014000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Sporting - Huesca</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286546" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025014000 -0300" stop="20241025014500 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">Resúmenes LaLiga HyperMotion: Tenerife - Málaga</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4286449" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025014500 -0300" stop="20241025080000 -0300" channel="M+ LaLiga TV 2 HD">
+    <title lang="es">M+ LALIGA TV 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1868972H3152673" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024080000 -0300" stop="20241024183800 -0300" channel="M+ Liga de Campeones 3 HD">
+    <title lang="es">M+ Liga de Campeones 3</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2080455H3152678" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024183800 -0300" stop="20241024204500 -0300" channel="M+ Liga de Campeones 3 HD">
+    <title lang="es">Vivo: UEFA Conference League: Multieuropa + Conference League Tarde</title>
+    <desc lang="es">Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA de esta temporada. El Olympiacos es el actual campeón.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300903" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024204500 -0300" stop="20241024205300 -0300" channel="M+ Liga de Campeones 3 HD">
+    <title lang="es">M+ Liga de Campeones 3</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2080455H3152678" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024205300 -0300" stop="20241024230000 -0300" channel="M+ Liga de Campeones 3 HD">
+    <title lang="es">Vivo: UEFA Conference League: Multieuropa + Conference League Noche</title>
+    <desc lang="es">Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA de esta temporada. El Olympiacos es el actual campeón.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300903" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024230000 -0300" stop="20241025080000 -0300" channel="M+ Liga de Campeones 3 HD">
+    <title lang="es">M+ Liga de Campeones 3</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2080455H3152678" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024080000 -0300" stop="20241024183800 -0300" channel="M+ Liga de Campeones 4 HD">
+    <title lang="es">M+ Liga de Campeones 4</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1853710H3152679" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024183800 -0300" stop="20241024204500 -0300" channel="M+ Liga de Campeones 4 HD">
+    <title lang="es">Vivo: UEFA Europa League: Qarabag - Ajax</title>
+    <desc lang="es">Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competición. El actual campeón es la Atlanta y la final se disputará en el estadio de San Mamés.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300840" />
+    <country lang="es">Azerbayan</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024204500 -0300" stop="20241024205300 -0300" channel="M+ Liga de Campeones 4 HD">
+    <title lang="es">M+ Liga de Campeones 4</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1853710H3152679" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024205300 -0300" stop="20241024230000 -0300" channel="M+ Liga de Campeones 4 HD">
+    <title lang="es">Vivo: UEFA Europa League: Fenerbahçe - Manchester Utd.</title>
+    <desc lang="es">Un Fenerbahçe que no conoce la derrota en esta edición de la Europa League recibe a un Manchester United que ha saldado sus dos primeros partidos con sendos empates.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300746" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024230000 -0300" stop="20241025080000 -0300" channel="M+ Liga de Campeones 4 HD">
+    <title lang="es">M+ Liga de Campeones 4</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1853710H3152679" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024063000 -0300" stop="20241024073000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Magazine Europa League</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2108356H3515826" />
+    <episode-num system="onscreen">T24/25 Ep.3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024073000 -0300" stop="20241024075000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Ruedas de prensa previas Europa League</title>
+    <sub-title lang="es">Previa Maccabi - R. Sociedad / Athletic - Slavia / Betis - Copenhague</sub-title>
+    <desc lang="es">Los protagonistas del deporte comparecen ante los micrófonos para responder a la prensa. Entrenadores y jugadores se comunican con los aficionados a través de las preguntas de los periodistas a pocas horas de sus partidos de Europa League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111451H3833784" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024075000 -0300" stop="20241024094000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Champions League: Leipzig - Liverpool</title>
+    <desc lang="es">El Leipzig, colíder de la Bundesliga, recibe al Liverpool, líder de la Premier League en la tercera jornada de la Liga de Campeones. Los alemanes, que comparten la primera plaza en Alemania con el Bayern, llegan exigidos en Europa después de perder ante Atlético y Juventus en un duro inicio de Champions. El Liverpool, que viene de ganar al Chelsea en Inglaterra, se ha impuesto en sus dos primeros partidos de la competición, ante Milan y Bolonia respectivamente.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4296724" />
+    <country lang="es">Alemania</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024094000 -0300" stop="20241024100000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Ruedas de prensa previas Europa League</title>
+    <sub-title lang="es">Previa Maccabi - R. Sociedad / Athletic - Slavia / Betis - Copenhague</sub-title>
+    <desc lang="es">Los protagonistas del deporte comparecen ante los micrófonos para responder a la prensa. Entrenadores y jugadores se comunican con los aficionados a través de las preguntas de los periodistas a pocas horas de sus partidos de Europa League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111451H3833784" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024100000 -0300" stop="20241024110000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Magazine Europa League</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2108356H3515826" />
+    <episode-num system="onscreen">T24/25 Ep.3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024110000 -0300" stop="20241024123000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Noche de Champions</title>
+    <sub-title lang="es">23/10/2024</sub-title>
+    <desc lang="es">Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4303542" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024123000 -0300" stop="20241024142000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Champions League: Barcelona - Bayern Múnich</title>
+    <desc lang="es">El FC Barcelona y el Bayern Múnich se enfrentan en este partido de la Jornada 3 de la Champions League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4296718" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024142000 -0300" stop="20241024144000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Ruedas de prensa previas Europa League</title>
+    <sub-title lang="es">Previa Maccabi - R. Sociedad / Athletic - Slavia / Betis - Copenhague</sub-title>
+    <desc lang="es">Los protagonistas del deporte comparecen ante los micrófonos para responder a la prensa. Entrenadores y jugadores se comunican con los aficionados a través de las preguntas de los periodistas a pocas horas de sus partidos de Europa League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111451H3833784" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024144000 -0300" stop="20241024163000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Champions League: At. Madrid - Lille</title>
+    <desc lang="es">Atlético de Madrid y Lille se enfrentan en este partido de la Jornada 3 de la Champions League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4296710" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024163000 -0300" stop="20241024165000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Ruedas de prensa previas Europa League</title>
+    <sub-title lang="es">Previa Maccabi - R. Sociedad / Athletic - Slavia / Betis - Copenhague</sub-title>
+    <desc lang="es">Los protagonistas del deporte comparecen ante los micrófonos para responder a la prensa. Entrenadores y jugadores se comunican con los aficionados a través de las preguntas de los periodistas a pocas horas de sus partidos de Europa League.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2111451H3833784" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024165000 -0300" stop="20241024180000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Magazine Europa League</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2108356H3515826" />
+    <episode-num system="onscreen">T24/25 Ep.3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024180000 -0300" stop="20241024183800 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">La Previa de Europa League</title>
+    <sub-title lang="es">24/10/2024</sub-title>
+    <desc lang="es">Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4304041" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024183800 -0300" stop="20241024204500 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Vivo: UEFA Europa League: Maccabi Tel Aviv - Real Sociedad</title>
+    <desc lang="es">La Real Sociedad solo ha sumado un punto en sus dos duelos celebrados y hoy busca su primer triunfo en Belgrado frente al Maccabi Tel Aviv en el choque de la 3ª jornada de la Europa League. Los vascos han escalado posiciones en Liga tras su victoria en Girona y ahora quieren firmar su primera victoria en Europa ante el conjunto israelí, que se presenta como uno de los más débiles tras sus dos derrotas ante Sporting de Braga y Midtjylland.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300788" />
+    <country lang="es">Serbia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024204500 -0300" stop="20241024205300 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">La Previa de Europa League: 24/10/2024</title>
+    <sub-title lang="es">24/10/2024 (II)</sub-title>
+    <desc lang="es">Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4304041" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024205300 -0300" stop="20241024230000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Vivo: UEFA Europa League: Athletic - Slavia Praga</title>
+    <desc lang="es">El Athletic Club recibe en San Mamés al Slavia de Praga en la tercera jornada de la Europa League con el objetivo de sumar su segundo triunfo y mantener el invicto en la competición. Los de Valverde empataron ante la Roma en Italia y vencieron al AZ Alkmaar en sus dos compromisos anteriores. Los checos suman también cuatro puntos después de ganar a domicilio al Ludogorets búlgaro y de empatar en casa ante el Ajax. Son líderes de su campeonato doméstico, y su única derrota de la temporada llegó en el play off de acceso a la Liga de Campeones, ante el Lille francés.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300710" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024230000 -0300" stop="20241025003000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">Noche de Europa League</title>
+    <sub-title lang="es">24/10/2024</sub-title>
+    <desc lang="es">Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4298248" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025003000 -0300" stop="20241025023000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Conference League: Betis - Copenhague</title>
+    <desc lang="es">La terapéutica victoria ante Osasuna no esconde la necesidad del Betis de ganar en casa a los daneses. El Copenhague lidera su liga y tuvo que superar tres cribas, que empezó en julio, para llegar a la fase de liga. Ambos clubes arrastran una derrota de la primera jornada.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4301273" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025023000 -0300" stop="20241025043000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Europa League: Roma - DInamo Kiev</title>
+    <desc lang="es">Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competición. El actual campeón es la Atlanta y la final se disputará en el estadio de San Mamés.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300768" />
+    <country lang="es">Italia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241025043000 -0300" stop="20241025063000 -0300" channel="M+ Liga de Campeones HD">
+    <title lang="es">UEFA Europa League: Qarabag - Ajax</title>
+    <desc lang="es">Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competición. El actual campeón es la Atlanta y la final se disputará en el estadio de San Mamés.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300840" />
+    <country lang="es">Azerbayan</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024080000 -0300" stop="20241024162500 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">M+ Liga de Campeones 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1912550H3152675" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024162500 -0300" stop="20241024183000 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">Vivo: UEFA Conference League: Víkingur Reykjavík - Círculo de Brujas</title>
+    <desc lang="es">Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA de esta temporada. El Olympiacos es el actual campeón.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4301427" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024183000 -0300" stop="20241024183800 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">M+ Liga de Campeones 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1912550H3152675" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024183800 -0300" stop="20241024204500 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">Vivo: UEFA Europa League: Roma - DInamo Kiev</title>
+    <desc lang="es">Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competición. El actual campeón es la Atlanta y la final se disputará en el estadio de San Mamés.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4300768" />
+    <country lang="es">Italia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024204500 -0300" stop="20241024205300 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">M+ Liga de Campeones 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1912550H3152675" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241024205300 -0300" stop="20241024230000 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">Vivo: UEFA Conference League: Betis - Copenhague</title>
+    <desc lang="es">La terapéutica victoria ante Osasuna no esconde la necesidad del Betis de ganar en casa a los daneses. El Copenhague lidera su liga y tuvo que superar tres cribas, que empezó en julio, para llegar a la fase de liga. Ambos clubes arrastran una derrota de la primera jornada.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4301273" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20241024230000 -0300" stop="20241025080000 -0300" channel="M+ Liga de Campeones 2 HD">
+    <title lang="es">M+ Liga de Campeones 2</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1912550H3152675" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+</tv>
